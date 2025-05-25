@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lunch": {
+      "commandName": "Project",
+      "commandLineArgs": "lunch:echo%20hello,%20world!%20&&%20pause"
+    }
+  }
+}
